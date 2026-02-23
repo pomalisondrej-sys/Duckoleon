@@ -1,6 +1,3 @@
 {
-"Events":[
-{"EventName":"Epic event"}
-{"EventName":"Ultra event"}
-]
+"Events":["Epic Event","Cool Event","Very Cool Event"]
 }
